@@ -1,0 +1,1 @@
+https://thredds.rda.ucar.edu/thredds/ncss/grid/files/g/ds084.1/2023/20231105/gfs.0p25.2023110500.f003.grib2?var=Downward_Short-Wave_Radiation_Flux_surface_3_Hour_Average&north=77&west=-23&east=-1&south=62&horizStride=1&time_start=2023-11-05T03:00:00Z&time_end=2023-11-05T03:00:00Z&timeStride=1&vertStride=1&accept=netcdf3&addLatLon=true
